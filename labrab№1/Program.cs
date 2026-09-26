@@ -22,7 +22,6 @@ namespace App
 
             var x = ReadDouble("Введите значение x: ");
 
-            // Проверяем подкоренное выражение перед вычислением
             var innerValue = x + Math.Pow(Math.Abs(x), 0.25);
             if (innerValue < 0)
             {
@@ -62,7 +61,7 @@ namespace App
             Console.WriteLine("Операция 3, точный результат: 1");
         }
 
-        // Вспомогательный метод для ввода целых чисел без дублирования TryParse
+        
         public static int ReadInt(string prompt)
         {
             Console.Write(prompt);
@@ -74,7 +73,7 @@ namespace App
             return result;
         }
 
-        // Вспомогательный метод для ввода вещественных чисел
+        
         public static double ReadDouble(string prompt)
         {
             Console.Write(prompt);
@@ -86,7 +85,6 @@ namespace App
             return result;
         }
 
-        // Бизнес-логика задачи 2: проверка принадлежности точки II и IV четвертям круга
         public static bool IsPointInArea(double pointX, double pointY)
         {
             return (pointX * pointX + pointY * pointY <= 1) && (pointX * pointY <= 0);
