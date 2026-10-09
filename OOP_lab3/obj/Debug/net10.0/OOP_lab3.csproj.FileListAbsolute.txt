@@ -1,0 +1,15 @@
+C:\Users\ninil\source\repos\OOP_lab3\bin\Debug\net10.0\OOP_lab3.exe
+C:\Users\ninil\source\repos\OOP_lab3\bin\Debug\net10.0\OOP_lab3.deps.json
+C:\Users\ninil\source\repos\OOP_lab3\bin\Debug\net10.0\OOP_lab3.runtimeconfig.json
+C:\Users\ninil\source\repos\OOP_lab3\bin\Debug\net10.0\OOP_lab3.dll
+C:\Users\ninil\source\repos\OOP_lab3\bin\Debug\net10.0\OOP_lab3.pdb
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.AssemblyInfoInputs.cache
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.AssemblyInfo.cs
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.csproj.CoreCompileInputs.cache
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.dll
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\refint\OOP_lab3.dll
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.pdb
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.genruntimeconfig.cache
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\ref\OOP_lab3.dll
+C:\Users\ninil\source\repos\OOP_lab3\obj\Debug\net10.0\OOP_lab3.csproj.Up2Date
